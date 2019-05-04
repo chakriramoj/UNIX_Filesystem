@@ -1,8 +1,3 @@
-Ashutosh Agrawala axa180037
-Arjit Yadav axy170007
-Chakriramoj sandireddy cxs180003
-
-
 **The program will print the list of all chained free blocks,the information about root directory data after initialization,isize,fsize,nfree and ninode**
 **There is an output file for the sample run of 8000 datablocks and 300 inodes**
 
